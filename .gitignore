@@ -1,3 +1,6 @@
 *.svs
 .idea
-A2_env
+__pycache__
+*.pyc
+*.pyo
+*.pyd

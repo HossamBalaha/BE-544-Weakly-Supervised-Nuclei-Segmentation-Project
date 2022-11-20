@@ -2,14 +2,14 @@
   "version": "0.3.2",
   "createTimestamp": 1668900082879,
   "modifyTimestamp": 1668900082879,
-  "uri": "file:/E:/Assignment%202%20-%20Weakly%20Supervised%20Nuclei%20Segmentation/A2%20-%20Part%20A/project.qpproj",
+  "uri": "file:/E:/Assignment%202%20-%20Weakly%20Supervised%20Nuclei%20Segmentation/QuPath%20Project/project.qpproj",
   "lastID": 1,
   "images": [
     {
       "serverBuilder": {
         "builderType": "uri",
         "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
-        "uri": "file:/E:/Assignment%202%20-%20Weakly%20Supervised%20Nuclei%20Segmentation/TCGA-AA-3562-01A-01-BS1.2bc37a71-647d-4e7e-9e3a-12191942a051.svs",
+        "uri": "file:/E:/Assignment%202%20-%20Weakly%20Supervised%20Nuclei%20Segmentation/Slides/TCGA-AA-3562-01A-01-BS1.2bc37a71-647d-4e7e-9e3a-12191942a051.svs",
         "args": [],
         "metadata": {
           "name": "TCGA-AA-3562-01A-01-BS1.2bc37a71-647d-4e7e-9e3a-12191942a051.svs",
@@ -73,7 +73,7 @@
         }
       },
       "entryID": 1,
-      "randomizedName": "3ee613bd-e355-4d67-bfc9-05f6e26cca3b",
+      "randomizedName": "6e19784e-8a92-4b01-916a-400fa31816c7",
       "imageName": "TCGA-AA-3562-01A-01-BS1.2bc37a71-647d-4e7e-9e3a-12191942a051.svs",
       "metadata": {}
     }
